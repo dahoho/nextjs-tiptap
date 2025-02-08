@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.tiptap {
+  background-color: #f2f2f2;
+  padding: 60px 20px;
+}
